@@ -1,9 +1,18 @@
 <img src="https://github.com/user-attachments/assets/1b3af419-fb09-497e-945a-df63952115ab" width="100%">
 
-### **Languages**
+## About Me;
+Hello! 👋 I am a Full-Stack Web Developer interested in building maintainable, bug-free, user-friendly, and developer-friendly applications. I cherish well-documented and well-designed code and try my best to apply these to my apps.
+</br>
+I'm constantly working on improving my skills and exploring new concepts on C# and .Net technologies at the back end and on JavaScript and React at the front end.
 
-#### ![C# (CSharp)](https://github.com/user-attachments/assets/3d0c8849-8488-44c8-83c5-860cd24d43f7) **C#** &nbsp; ![JavaScript](https://github.com/user-attachments/assets/d3150c88-7852-4829-835d-7a451588c02d) **JAVASCRIPT** &nbsp; ![HTML5](https://github.com/user-attachments/assets/b8219e53-15b2-4cc0-8c41-197704f11b1c) **HTML** &nbsp; ![CSS3](https://github.com/user-attachments/assets/dc31162c-bba3-4a18-b96a-a5fac70b7ccd) **CSS** &nbsp;
+### **Languages**
+![C# (CSharp)](https://github.com/user-attachments/assets/a82c4e2a-e44d-4605-8495-a26c81ae1df6) &nbsp;
+![JavaScript](https://github.com/user-attachments/assets/cb0c4c90-dfa1-4d1a-ae9c-aac8d9dbaa1f) &nbsp;
+![HTML5](https://github.com/user-attachments/assets/13bdb586-7830-4a77-9ee1-f04d198716c4) &nbsp;
+![CSS3](https://github.com/user-attachments/assets/899eaae6-20c0-4383-8f87-3bc65020aad1)
+
+
 
 ### **Technologies**
-
-#### ![NET core](https://github.com/user-attachments/assets/bb1413b8-4310-4d85-8152-8eaba78d3515) **.NET CORE** &nbsp; ![React](https://github.com/user-attachments/assets/780862b8-7873-4a4f-9a1b-1de06b34115a) **REACT** &nbsp;
+![NET core](https://github.com/user-attachments/assets/8b091279-2041-407c-8f8a-5f497a8a76ad) &nbsp;
+![React](https://github.com/user-attachments/assets/cb990244-0b5d-4282-9cd4-8dc8ee8675b3)
