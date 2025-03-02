@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/1b3af419-fb09-497e-945a-df63952115ab" width="100%">
 
 ## About Me;
-Hello! 👋 I am a Full-Stack Web Developer interested in building maintainable, bug-free, user-friendly, and developer-friendly applications. I cherish well-documented and well-designed code and try my best to apply these to my apps.
+Hello! 👋 I am a Full-Stack Web Developer interested in building maintainable, bug-free, user-friendly, and developer-friendly applications. I cherish well-documented and well-designed code and try my best to apply those to my apps.
 </br>
 I'm constantly working on improving my skills and exploring new concepts on C# and .Net technologies at the back end and on JavaScript and React at the front end.
 
